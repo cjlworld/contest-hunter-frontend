@@ -1,5 +1,7 @@
 # contest-hunter-frontend
 
+项目部署地址：[contest-hunter.netlify.app](https://contest-hunter.netlify.app/)，欢迎来玩！
+
 ## Project setup
 ```
 npm install
