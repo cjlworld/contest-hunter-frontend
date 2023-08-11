@@ -22,7 +22,7 @@
             </li> -->
           </ul>
           <span class="navbar-text">
-            Github
+            <a href="https://github.com/cjlworld/contest-hunter-frontend">Github</a>
           </span>
         </div>
       </div>
